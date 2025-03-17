@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Drink-App/static/css/main.7670b97f.css",
+    "main.js": "/Drink-App/static/js/main.7d54e6ad.js",
+    "static/js/488.68396692.chunk.js": "/Drink-App/static/js/488.68396692.chunk.js",
+    "index.html": "/Drink-App/index.html",
+    "main.7670b97f.css.map": "/Drink-App/static/css/main.7670b97f.css.map",
+    "main.7d54e6ad.js.map": "/Drink-App/static/js/main.7d54e6ad.js.map",
+    "488.68396692.chunk.js.map": "/Drink-App/static/js/488.68396692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7670b97f.css",
+    "static/js/main.7d54e6ad.js"
+  ]
+}
