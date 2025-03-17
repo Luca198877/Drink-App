@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Luca198877/app-drink/static/css/main.7670b97f.css",
+    "main.js": "/Luca198877/app-drink/static/js/main.7a3b1549.js",
+    "static/js/488.68396692.chunk.js": "/Luca198877/app-drink/static/js/488.68396692.chunk.js",
+    "index.html": "/Luca198877/app-drink/index.html",
+    "main.7670b97f.css.map": "/Luca198877/app-drink/static/css/main.7670b97f.css.map",
+    "main.7a3b1549.js.map": "/Luca198877/app-drink/static/js/main.7a3b1549.js.map",
+    "488.68396692.chunk.js.map": "/Luca198877/app-drink/static/js/488.68396692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7670b97f.css",
+    "static/js/main.7a3b1549.js"
+  ]
+}
